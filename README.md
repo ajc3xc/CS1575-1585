@@ -7,12 +7,12 @@ Online GDB / Gitlab Links:
 <br/><br/>
 
 ## CS 1575
-- __Array List:__ https://onlinegdb.com/TMqg4wqmA
-- __Binary Tree:__ https://onlinegdb.com/okfahLdeG
-- __Final Project:__ https://onlinegdb.com/1OfFzK_4k
+- __[Array List](https://onlinegdb.com/TMqg4wqmA)__
+- __[Binary Tree](https://onlinegdb.com/okfahLdeG)__
+- __[Final Project](https://onlinegdb.com/1OfFzK_4k)__
 
 
 
 ## CS 1585
-- __Lab 2:__ https://onlinegdb.com/04rcuqnyW
+- __[Lab 2](https://onlinegdb.com/04rcuqnyW)__
 
