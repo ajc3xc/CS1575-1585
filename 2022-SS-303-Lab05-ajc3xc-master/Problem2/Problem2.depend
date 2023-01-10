@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1656071030 source:/home/user/DataStructures/2022-SS-303-Lab05-ajc3xc/funcs.cpp
+
+1656027620 source:/home/user/DataStructures/2022-SS-303-Lab05-ajc3xc/TrianglePrinter.cpp
+	"TrianglePrinter.h"
+
+1656027620 /home/user/DataStructures/2022-SS-303-Lab05-ajc3xc/TrianglePrinter.h
+	<vector>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1656073048 source:/home/user/DataStructures/2022-SS-303-Lab05-ajc3xc/main.cpp
+	<iostream>
+	"funcs.h"
+	"TrianglePrinter.h"
+
+1656027620 /home/user/DataStructures/2022-SS-303-Lab05-ajc3xc/funcs.h
+

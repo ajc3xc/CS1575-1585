@@ -1,0 +1,18 @@
+COMPILER=g++
+SOURCES=$(wildcard *.cpp)
+OBJECTS=$(SOURCES:%.cpp=%.o)
+HEADERS=$(wildcard *.h)
+
+
+
+program2: ${OBJECTS}
+	${COMPILER} $^ -o program2
+
+%.o: %.cpp ${HEADERS}
+	${COMPILER} -c $<
+
+.PHONY: debug clean
+debug: program2
+clean:
+	-@ rm -f program2 *.o
+	-@ rm -f program2

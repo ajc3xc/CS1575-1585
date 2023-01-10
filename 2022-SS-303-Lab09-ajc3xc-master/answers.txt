@@ -1,0 +1,14 @@
+Problem 1:
+
+- It is called 1000 times
+
+- Because the vector is passed by value, a temporary value is created every time the
+average function is called by copying the vector inputted.
+It passes by value, when it should pass by reference to save time
+
+- It is called 0 times
+
+Problem 2:
+ - 228 Ir
+ - No
+ - 97 Ir
