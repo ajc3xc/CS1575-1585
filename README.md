@@ -14,5 +14,6 @@ Online GDB / Gitlab Links:
 
 
 ## CS 1585
+- __[Lab 1](2022-SS-303-Lab01-ajc3xc-master)__
 - __[Lab 2](https://onlinegdb.com/04rcuqnyW)__
 
