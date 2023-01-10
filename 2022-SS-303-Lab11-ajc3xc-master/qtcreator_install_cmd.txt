@@ -1,0 +1,5 @@
+
+#Commands to install qtcreator on Debian
+
+1. sudo apt-get install qtcreator
+2. sudo apt-get install qt5-default 

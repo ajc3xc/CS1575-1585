@@ -1,0 +1,1 @@
+Wrt  cmmnd t fltr t lns bgnnng wth '#' (Y cn tst t wth stry-pln.txt)
