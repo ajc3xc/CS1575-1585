@@ -1,7 +1,8 @@
 ![Data-Structures](https://user-images.githubusercontent.com/91383782/211228952-56db1795-a84c-48e8-ae62-f18f95f4203b.png)
 
 # CS 1575-1585
-Repository Storing all work done for CS 1575 and its lab CS 1585
+Repository Storing all work done for CS 1575 and its lab CS 1585\
+Done Summer 2022\
 Online GDB / Gitlab Links:
 <br/><br/>
 <br/><br/>
