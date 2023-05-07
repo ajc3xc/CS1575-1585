@@ -3,18 +3,19 @@
 # CS 1575-1585
 Repository Storing all work done for CS 1575 and its lab CS 1585\
 Done Summer 2022\
-Online GDB / Gitlab Links:
 <br/><br/>
 <br/><br/>
 
-## CS 1575
+## Online GDB / Gitlab Links:
+
+### CS 1575
 - __[Array List](https://onlinegdb.com/TMqg4wqmA)__
 - __[Binary Tree](https://onlinegdb.com/okfahLdeG)__
 - __[Final Project](https://onlinegdb.com/1OfFzK_4k)__
 - __[Google Drive]__(https://drive.google.com/drive/u/0/folders/1QVUpVVX_FJjSK0TkuU1gFHK0qUpFoqgW)__
 
 
-## CS 1585
+### CS 1585
 - __[Lab 1](2022-SS-303-Lab01-ajc3xc-master)__
 - __[Lab 2](https://onlinegdb.com/04rcuqnyW)__
 - __[Lab 3](2022-SS-303-Lab03-ajc3xc-master)__
