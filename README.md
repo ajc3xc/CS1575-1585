@@ -12,7 +12,7 @@ Done Summer 2022\
 - __[Array List](https://onlinegdb.com/TMqg4wqmA)__
 - __[Binary Tree](https://onlinegdb.com/okfahLdeG)__
 - __[Final Project](https://onlinegdb.com/1OfFzK_4k)__
-- __[Google Drive]__(https://drive.google.com/drive/u/0/folders/1QVUpVVX_FJjSK0TkuU1gFHK0qUpFoqgW)__
+- __[Google Drive](https://drive.google.com/drive/u/0/folders/1QVUpVVX_FJjSK0TkuU1gFHK0qUpFoqgW)__
 
 
 ### CS 1585
